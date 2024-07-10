@@ -31,6 +31,8 @@ time_periods = {
     range(9000, 10000): "The Earth is devoured by the expanding Sun, marking the end of life as we know it."
 }
 
+# NOTE: Anthony wants the 1980s to return "that was a weird time"
+
 # Game loop
 running = True
 message = ""
